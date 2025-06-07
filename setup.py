@@ -11,9 +11,9 @@ if readme_path.exists():
 setup(
     name='codetokencalculator',
     version='0.1.0',
-    author='AI Assistant & User',
-    author_email='your_email@example.com',
-    description='A tool to count LLM input tokens in a code repository for Anthropic Claude models.',
+    author='Vibed by Grey',
+    author_email='email@example.com',
+    description='A tool to count LLM input tokens',
     long_description=long_description,
     long_description_content_type='text/markdown',
     # url='https://github.com/yourusername/codetokencalculator', # Replace with your actual URL
@@ -34,8 +34,6 @@ setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
-        'Programming Language :: Python :: 3.10',
-        'Programming Language :: Python :: 3.11',
         'Operating System :: OS Independent',
         'Topic :: Software Development :: Build Tools',
         'Topic :: Text Processing :: General',
